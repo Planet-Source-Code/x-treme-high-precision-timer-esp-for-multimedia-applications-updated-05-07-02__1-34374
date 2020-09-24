@@ -1,0 +1,4 @@
+frmMain = 7, 179, 581, 573, , 22, 22, 596, 416, C
+clsProfiler = 66, 66, 556, 384, 
+ctlHiPreTimer = 110, 110, 645, 412, , 0, 0, 535, 302, C
+modHiPreTimer = 0, 0, 535, 302, Z
